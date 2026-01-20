@@ -25,5 +25,7 @@ This mini project demonstrates:
 - The design is **purely combinational**
 
 ---
+## OUTPUT Wavwforms
+
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f8ce6307-93aa-4305-b3ff-9f26849e7606" />
 
